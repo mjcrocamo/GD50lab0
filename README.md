@@ -1,5 +1,6 @@
 # GD50lab0
 
+I chose the less challenging version of lab0.
 I made a few changes to the original source code. I added a self.dx attribute
 to the paddle class to account for velocity horizontally and changed this
 in the main.lua file in that section of code as well from player1.dy or player2.dy
