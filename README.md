@@ -3,6 +3,7 @@
 I chose the less challenging version of lab0. I accidentally uploaded to my repo
 the project in one folder titled PongLab and also in the individual files.
 They have the same content though. 
+***I also made the control keys Z and X for player1 and N and M for player2***
 I made a few changes to the original source code. I added a self.dx attribute
 to the paddle class to account for velocity horizontally and changed this
 in the main.lua file in that section of code as well from player1.dy or player2.dy
